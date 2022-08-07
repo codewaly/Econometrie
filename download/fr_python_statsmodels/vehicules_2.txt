@@ -1,0 +1,7 @@
+modele	cylindree	puissance	poids	conso
+Nissan Primera 2.0	1997	92	1240	9.2
+Fiat Tempra 1.6 Liberty	1580	65	1080	9.3
+Opel Omega 2.5i V6	2496	125	1670	11.3
+Subaru Vivio 4WD	658	32	740	6.8
+Seat Ibiza 2.0 GTI	1983	85	1075	9.5
+Ferrari 456 GT	5474	325	1690	21.3
